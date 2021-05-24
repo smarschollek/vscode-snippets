@@ -47,7 +47,7 @@
 	},
 
 	"styled-components-import": {
-		"prefix": "isc",
+		"prefix": "imsc",
 		"body": "import styled from 'styled-components'"
 	},
 
